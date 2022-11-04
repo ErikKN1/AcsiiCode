@@ -1,7 +1,7 @@
-Serie de ejercicios java: \n
+Serie de ejercicios java: 
 
-Convertidor de caracter a ACSII y viceversa \n
+Convertidor de caracter a ACSII y viceversa 
 
-Este programa pide cuenta con 2 opciones, convertir caracter a codigo ACSII o ACSII a caracter \n
+Este programa pide al usuario seleccionar entre 2 opciones, convertir caracter a codigo ACSII o ACSII a caracter
 
 Programa desarrollado en Netbeans con Java version 19 
