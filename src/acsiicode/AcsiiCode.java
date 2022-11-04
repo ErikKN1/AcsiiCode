@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author erik.hernandez
+ * @author erik
  */
 public class AcsiiCode {
 
