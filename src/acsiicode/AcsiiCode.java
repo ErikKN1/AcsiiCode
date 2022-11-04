@@ -18,7 +18,6 @@ public class AcsiiCode {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
         Scanner InDate=new Scanner(System.in);
         char code;
         System.out.println("Enter character to transform");
